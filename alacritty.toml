@@ -1,0 +1,11 @@
+import = [
+	"~/.config/alacritty/tempus-themes/tempus_totus.toml"
+]
+
+[font]
+normal = { family = "ProFont", style = "Regular" }
+size = 16
+
+[cursor]
+style = { shape = "Block", blinking = "Never" }
+vi_mode_style = { shape = "Block", blinking = "Never" }
